@@ -1,6 +1,6 @@
 ## RootKits-List-Download
 
-*This is the list of all rootkits found so far on github and other sites. *
+*A curated list of rootkits found on Github and other sites.*
 
 [vlany](https://github.com/mempodippy/vlany)
 
